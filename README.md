@@ -13,7 +13,7 @@ I enjoy coaching and helping companies on transforming their culture and organis
 
 ## Employment history
 
-### Bootstraping [Wijobs.es](https://www.wijobs.es)
+### Bootstrapping [Wijobs.es](https://www.wijobs.es)
 `October 2019 - present`
 
 `netcore` `entityframework` `mariadb` `elasticsearch` `kibana` `ml.net` `linux` `nginx` `ddd` `cqrs` `monolith`
