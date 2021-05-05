@@ -11,6 +11,13 @@ I enjoy coaching and helping companies on transforming their culture and organis
 
 `leading` `management` `mentoring` `coaching` `training` `one to one´s` `problem solving` `lean ux` `lean` `agile` `scrum` `kanban` `product management` `product roadmap` `software architecture` `microservices` `ddd` `cqrs` `software crafting` `tdd` `xp practices` `prototyiping` `a/b testing` `web development` `backend development` `graphic design` ...
 
+### Languages
+Spanish `native`
+
+Catalan `native`
+
+English `upper intermediate`
+
 ## Employment history
 
 ### Bootstrapping [Wijobs.es](https://www.wijobs.es)
